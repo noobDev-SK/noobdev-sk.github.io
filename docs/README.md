@@ -1,1 +1,1 @@
-# view the website @ www.noobdev-sk.github.io
+# view the website at https://noobdev-sk.github.io
